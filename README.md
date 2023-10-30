@@ -1,1 +1,1 @@
-"#latihan dulu" 
+"latihan dulu" 
